@@ -11,10 +11,11 @@
   margin: 10px;
   border-radius: 8px;
   width: 85%;
-  background-color: darkgray;
+  background-color: rgba(47, 79, 79, 0.76);
   font-size: 20px;
   font-weight: 700;
   border: none;
+  color: burlywood;
 }
 .button-container
 {
